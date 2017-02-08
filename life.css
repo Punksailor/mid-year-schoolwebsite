@@ -1,0 +1,19 @@
+#nav-sidebar{
+    border: 1px solid red;
+    width: 10%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 100px;
+}
+
+#tiger-img{
+    background-size: cover;
+    background-image: url(photoark-tigercub.png);
+    background-position: bottom right;
+    background-repeat: no-repeat;
+    width: 100px;
+    height: 600px;
+    top: 0;
+    left: 0;
+}
